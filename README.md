@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashref MTIR
-- 👀 I’m interested in web developement reactjs, nodejs, fullstack.
-- 🌱 I’m experienced in nextjs, reactjs, nodejs, expressjs, mongodb.
+- 👀 I’m interested in fullstack web developement using js frameworks.
+- 🌱 I’m experienced in nextjs, reactjs, nodejs, expressjs, angular, mongodb.
 - 💞️ I’m looking to collaborate on new challenges.
 - 📫 How to reach me mail: ashref.mtir@gmail.com
 
